@@ -1,13 +1,9 @@
 {
-  "homepage": "https://Yogamadhasatya.github.io/portofolio-saya.github.io",
   "name": "vitereact",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "scripts": {
-    "start": "vite start",
-    "build": "vite, build",
-    "test": "vite test",
-    "eject": "vite eject",
     "dev": "vite",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
